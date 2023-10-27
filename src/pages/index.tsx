@@ -46,10 +46,10 @@ const Index: React.FC<IndexProps> = ({ featuredItem, collections }) => {
         <Hero collection={hero} />
       </HeroWrapper>
       <Container>
-        <Heading as="h2">Sobre a coleção</Heading>
+        <Heading as="h2">Ensaio sobre uma duna</Heading>
         <div>
           <p>
-          Em Ensaio sobre uma duna, instalação inédita que ocupa o centro da Sala Casa e que dá nome à primeira exposição individual de Jonas Arrabal na Athena, vemos quase que um panorâma da produção do artista, reunindo materiais aparentemente muito diversos, que o interessam desde 2011.
+          Em *Ensaio sobre uma duna*, instalação inédita que ocupa o centro da Sala Casa e que dá nome à primeira exposição individual de Jonas Arrabal na Athena, vemos quase que um panorâma da produção do artista, reunindo materiais aparentemente muito diversos, que o interessam desde 2011.
           </p>
         </div>
         <Related
