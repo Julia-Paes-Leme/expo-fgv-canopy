@@ -10,7 +10,7 @@
     "featured": [
       "https://expo-fgv-curso.vercel.app/7/manifest.json"  
     ],
-    "metaDate": ["Date", "Type", "Creator"]
+    "metadata": ["Date", "Type", "Creator"]
   },
   "dev": {
     "label": { "none": ["Exposição de teste"] },
