@@ -50,11 +50,12 @@ const Index: React.FC<IndexProps> = ({ featuredItem, collections }) => {
         <div>
           <p>
             Em <i>Ensaio sobre uma duna</i>, instalação inédita que ocupa o centro da Sala Casa
-            e que dá nome à 
-            <a href="https://galeriaathena.com/exhibitions/50-jonas-arrabal-ensaio-sobre-uma-duna/">
+            e que dá nome à <a href="https://galeriaathena.com/exhibitions/50-jonas-arrabal-ensaio-sobre-uma-duna/">
               primeira exposição individual</a> de Jonas Arrabal na Athena,
             vemos quase que um panorâma da produção do artista, reunindo materiais aparentemente muito diversos,
-            que o interessam desde 2011. 
+            que o interessam desde 2011.
+            É como um curioso diálogo com as caixas-valises de Marcel Duchamp 
+            ou com a ideia de museu imaginário de André Malraux.
           </p>
         </div>
         <Related
